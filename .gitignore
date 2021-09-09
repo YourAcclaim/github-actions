@@ -1,0 +1,2 @@
+# Don't actually ignore node modules git workflows need it
+# node_modules/*
